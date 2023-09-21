@@ -15,5 +15,5 @@ print(
 print("longitud de un string con funcion len", len(first_variable))
 
 # variables en una sola linea
-name, lastname, age = "martin", "cubides", "6 años"
+name, lastname, age = "jhon", "doe", "6 años"
 print("nombre:", name, "apellido:", lastname, "edad:", age)
